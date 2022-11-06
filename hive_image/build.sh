@@ -1,0 +1,1 @@
+docker image build -t  cluster_hive:1.0 --platform=linux/amd64.
